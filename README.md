@@ -12,7 +12,7 @@ Significant Developments provide real-time summaries and categorizations of cruc
 ###
 
 * From RDP News service
-     Python jupyter notebook
-     Postman request collection    
+    * Python jupyter notebook
+    * Postman request collection    
 * Using SQS queues in Python script
 * Using realtime streaming service with Refinitiv-Realtime Optimized in python

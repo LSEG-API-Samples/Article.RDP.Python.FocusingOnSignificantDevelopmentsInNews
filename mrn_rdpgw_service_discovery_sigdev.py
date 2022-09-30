@@ -5,9 +5,9 @@
 # |                See the project's LICENSE.md for details.                  --
 # |           Copyright (C) 2022 Refinitiv. All rights reserved.              --
 # |-----------------------------------------------------------------------------
-"""
-# This example helps identify Significant Developments in News  
-
+# |
+# | This example helps identify Significant Developments in News  
+# |-----------------------------------------------------------------------------
 """
 Simple example of authenticating to RDP-GW and using the token to query VIPs
 from RDP service discovery, login to the Refinitiv Real-Time Streaming Optimized Service, and

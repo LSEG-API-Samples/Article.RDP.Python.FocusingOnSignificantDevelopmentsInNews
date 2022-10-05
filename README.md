@@ -17,7 +17,7 @@ Significant Developments provide real-time summaries and categorizations of cruc
 * Using SQS queues in Python script
 * Using realtime streaming service with Refinitiv-Realtime Optimized in python
 
-This source code is the companion code to article:
+This source code is the companion code to article Focusing on Significant Developments in News:
 <br/>
 [https://developers.refinitiv.com/en/article-catalog/article/focusing-on-significant-developments-in-news-part-1](https://developers.refinitiv.com/en/article-catalog/article/focusing-on-significant-developments-in-news-part-1)
 <br/>

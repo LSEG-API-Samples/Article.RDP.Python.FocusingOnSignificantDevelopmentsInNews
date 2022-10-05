@@ -18,5 +18,7 @@ Significant Developments provide real-time summaries and categorizations of cruc
 * Using realtime streaming service with Refinitiv-Realtime Optimized in python
 
 This source code is the companion code to article:
+<br/>
 [https://developers.refinitiv.com/en/article-catalog/article/focusing-on-significant-developments-in-news-part-1](https://developers.refinitiv.com/en/article-catalog/article/focusing-on-significant-developments-in-news-part-1)
+<br/>
 [https://developers.refinitiv.com/en/article-catalog/article/focusing-on-significant-developments-in-news-part-2](https://developers.refinitiv.com/en/article-catalog/article/focusing-on-significant-developments-in-news-part-2)

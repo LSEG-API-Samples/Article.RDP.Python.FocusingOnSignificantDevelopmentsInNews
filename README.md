@@ -15,7 +15,7 @@ Significant Developments provide real-time summaries and categorizations of cruc
     * Python jupyter notebook
     * Postman request collection    
 * Using SQS queues in Python script
-* Using realtime streaming service with Refinitiv-Realtime Optimized in python
+* Using realtime streaming service with Refinitiv-Realtime Optimized in Python
 
 This source code is the companion code to article Focusing on Significant Developments in News:
 <br/>
